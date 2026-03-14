@@ -1,0 +1,57 @@
+* { box-sizing: border-box; font-family: Arial, Helvetica, sans-serif; margin: 0; }
+
+table { height: 100vh; margin: auto; width: 90%; }
+
+td { height: 8vh; width: 5%; }
+
+.border { border: solid; text-align: center; }
+
+.naoMetal { background-color: #b3d76a; }
+
+.gasesNobres { background-color: #67afde; }
+
+.metaisAlcalinos { background-color: #f5c95e; }
+
+.metaisAlcalinos-Terrosos { background-color: #efe55b; }
+
+.semiMetais { background-color: #66c4bc; }
+
+.halogenios { background-color: #a7dff3; }
+
+.outrosMetais { background-color: #a2c6d2; }
+
+.metaisDeTransicao { background-color: #f2b0b0; }
+
+.lantanídios { background-color: #90e3e9; text-align: center }
+
+.actinídios { background-color: #dcadd6; text-align: center }
+
+.esquerda { text-align: left; }
+
+.direita { text-align: right; }
+
+.caixaNãoMetais { background-color: #b3d76a; display: inline-block; height: 30px; width: 30px; }
+
+.caixaMetaisAlcalinos { background-color: #f5c95e; display: inline-block; height: 30px; width: 30px; }
+
+.caixaSemiMetais { background-color: #66c4bc; display: inline-block; height: 30px; width: 30px; }
+
+.caixaOutrosMetais { background-color: #a2c6d2; display: inline-block; height: 30px; width: 30px; }
+
+.caixaLantanídeos { background-color: #90e3e9; display: inline-block; height: 30px; width: 30px; }
+
+.caixaGasesNobres { background-color: #67afde; display: inline-block; height: 30px; width: 30px; }
+
+.caixaMetaisAlcalinos-Terrosos { background-color: #efe55b; display: inline-block; height: 30px; width: 30px; }
+
+.caixaHalogênios { background-color: #a7dff3; display: inline-block; height: 30px; width: 30px; }
+
+.caixaMetaisDeTransição { background-color: #f2b0b0; display: inline-block; height: 30px; width: 30px; }
+
+.caixaActinídios { background-color: #dcadd6; display: inline-block; height: 30px; width: 30px; }
+
+.noborder { border: none; }
+
+.centralizado { text-align: center; margin: 60px;}
+
+.fonte { font-family: 'Poppins', sans-serif; }
